@@ -12,10 +12,7 @@ Author
 
 **ULTOR3020** 3D Printer has been designed and built by **[InMachines Ingrassia GmbH](https://www.inmachines.net/)** & **[Fab619 On-Demand-Fabrication](https://fab619.tn/)**.
 
-<img src="https://irp.cdn-website.com/2b5ccdcd/dms3rep/multi/InMachines_Logo_positive_white.png" width="50%">
-
-<img src="https://fab619.tn/wp-content/uploads/2023/01/FAB619_36px-x-80.png" width="20%">
-
+<div><img src="media/comp.png" width="100%"></div>
 
 <br>
 
