@@ -4,8 +4,9 @@
 
 
 
-
-
+3D printing Test 
+--
+<div align="center"><img src="media/testprint.png" width="100%"></div>
 
 Author
 --
