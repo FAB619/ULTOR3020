@@ -6,7 +6,8 @@ Intoduction
 --
 Welcome to the ULTOR 3020 - 3D Printer machine Documentation.
 
-We are excited to share our open-source 3D printer project in collaboration with Inmachines Gmbh!!
+**We are excited to share our open-source 3D printer project in collaboration with Inmachines Gmbh!!**
+<div align="center"><img src="media/main2.png" width="100%"></div>
 The ULTOR 3020 is a powerful and reliable 3D printer that we have designed for professionals and enthusiasts alike. By releasing this project on GitHub, we hope to encourage collaboration and innovation in the 3D printing community.
 
 The ULTOR 3020 is an open-source desktop 3D printer with a spacious printing volume of 200x300x250mm. The machine comes in a kit assembly form, which means that you get to assemble the printer yourself. This can be a fun and rewarding experience, and we have put together a comprehensive guide that will walk you through the assembly process step by step.
