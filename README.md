@@ -2,6 +2,37 @@
 
 <div align="center"><img src="media/main.png" width="100%"></div>
 
+Intoduction 
+--
+Welcome to the ULTOR 3020 - 3D Printer machine Documentation.
+
+We are excited to share our open-source 3D printer project in collaboration with Inmachines Gmbh!!
+The ULTOR 3020 is a powerful and reliable 3D printer that we have designed for professionals and enthusiasts alike. By releasing this project on GitHub, we hope to encourage collaboration and innovation in the 3D printing community.
+
+The ULTOR 3020 is an open-source desktop 3D printer with a spacious printing volume of 200x300x250mm. The machine comes in a kit assembly form, which means that you get to assemble the printer yourself. This can be a fun and rewarding experience, and we have put together a comprehensive guide that will walk you through the assembly process step by step.
+
+Our repository contains all the information and resources you need to get started with the ULTOR 3020. You will find detailed documentation, schematics, firmware, and software that will help you build and customize your own ULTOR 3020 3D printer. We have also included an issue tracker to make it easy for you to report any bugs or suggest improvements.
+
+We believe that open-source projects like this one have the power to revolutionize the 3D printing industry. By sharing our design and development process with the community, we hope to inspire others to join us in pushing the boundaries of 3D printing technology.
+
+Specifications 
+--
+
+- Build volume: 200x300x250mm
+- Sturdy aluminium frame for stability and reduced vibration
+- bed: aluminum with non-sticking layer
+- motion: COREXY system with GT2 6mm belt, T8 threaded shaft 
+- guides: 12mm linear shaft, Hiwin MGN Series 12mm linear rails
+- motors: stepper motor NEMA 17
+- drivers: trinamic TMC2208 
+- adjustable and heated printing bed
+- Touchscreen HMI interface for easy operation
+
+Files
+--
+- **[CAD Files](https://github.com/FAB619/ULTOR3020/tree/main/CAD)**
+- **[Assembly Book](https://github.com/FAB619/ULTOR3020/blob/main/Ultor%20V1_%20Assembly%20guide.pdf)**
+- **[Firmware ](https://github.com/FAB619/ULTOR3020/tree/main/Firmware/Marlin-2.0.9.5)**
 
 
 3D printing Test 
