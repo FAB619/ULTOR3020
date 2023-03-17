@@ -27,6 +27,21 @@ Specifications
 - drivers: trinamic TMC2208 
 - adjustable and heated printing bed
 - Touchscreen HMI interface for easy operation
+- Pcb Board: Rumba32, 32 Bit controller
+
+Electronics
+-- 
+We used Rumba32 as controller for this machine. which is a powerful open source 32-bit 3D printer control board. for more information about the project check the **[docupentattion of RUMBA32](https://github.com/Aus3D/RUMBA32) for [Aus3D](https://github.com/Aus3D)**
+### Overview
+<img src="https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Resources/Images/RUMBA32_v1_1A_Graphic.png" width="100%">
+
+### Photo
+<img src="https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Resources/Images/boardPhoto.jpg" width="100%">
+
+### Pinout
+
+<img src="https://raw.githubusercontent.com/Aus3D/RUMBA32/master/Resources/Images/RUMBA32_v1_1B_PinoutDrawing.png" width="100%">
+
 
 Files
 --
